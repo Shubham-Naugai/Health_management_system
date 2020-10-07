@@ -1,5 +1,5 @@
-# upper hollow right triangle star pattern
-n = int(input('n='))
+# upper hollow right triangle star pattern.
+n = int(input('n = '))
 for i in range(1, n):
     for j in range(1, n):
         if j == n-1 or j == n-i:

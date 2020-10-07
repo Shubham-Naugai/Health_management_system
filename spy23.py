@@ -1,4 +1,4 @@
-# star pattern
+# star pattern.
 # n = int(input('n = '))
 n = 5
 for i in range(n):             # i is responsible for print the rows

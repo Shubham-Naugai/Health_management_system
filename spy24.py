@@ -1,4 +1,4 @@
-# upper right side right angle triangle (1 method)
+# upper right side right angle triangle (1 method).
 row = int(input('enter number of rows = '))
 for i in range(row):
     for j in range(row+1):

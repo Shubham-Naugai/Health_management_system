@@ -1,5 +1,5 @@
 # upper right triangle with its vertical mirror image star pattern
-n = int(input('n'))
+n = int(input('n = '))
 for i in range(1, n):
     for j in range(1, n+n-2):
         if j <= i or j >= n+n-2-i:

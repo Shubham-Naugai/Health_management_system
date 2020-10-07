@@ -1,4 +1,4 @@
-# upper equilateral triangle
+# upper equilateral triangle.
 row = int(input('enter odd number of rows = '))
 for i in range(1, row):
     for j in range(1, row+row-1):
